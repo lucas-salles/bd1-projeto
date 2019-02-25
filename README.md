@@ -8,5 +8,11 @@
 * Dicionário de Dados: Descrição do dicionário de dados do sistema.
 * Script SQL: Foi utilizado o Microsoft SQL Server.
 
+Esquema Conceitual
+
 ![Conceitual](img/conceitual.jpg)
+
+
+Esquema Lógico
+
 ![Lógico](img/logico.png)
